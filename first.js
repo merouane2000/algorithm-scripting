@@ -1,4 +1,4 @@
-<script>
+
 console.log ("hello world "); // hello world;
 
 
@@ -121,4 +121,3 @@ function recdef(n){
 
  }
  
-</script>
